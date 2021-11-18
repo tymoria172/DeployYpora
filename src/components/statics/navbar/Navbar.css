@@ -1,0 +1,29 @@
+.titulo {
+    text-align: center;
+}
+
+.colorAppBar {
+    background-color: transparent!important;
+    box-shadow: none !important;
+    
+}
+
+.colorText {
+    color: #8DD8F8 !important;
+    font-weight: bold !important;
+}
+
+.text-decorator-none {
+    text-decoration: none;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    padding-top: 3px;
+}
+
+.icon {
+    justify-content: center;
+    color: #8DD8F8 !important;
+}

@@ -1,0 +1,45 @@
+.footer {
+  height: 110px;  
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #072667;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.boxInvisivel {
+  width: 100px;
+}
+
+.box1{
+    margin: 11px;
+}
+
+.textsOnu{
+    margin-left: 13px;
+}
+
+.logoOnu{
+    width: 80px;
+    height: 80px;
+}
+
+.txtOnu {
+  font-family: Yaldevi Colombo Light;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 27px;
+  line-height: 36px;
+  color: #f4f4ff;
+}
+
+.textYpora{
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    margin-left: 20px;
+}
+
+.box2{
+  margin-right: 120px;
+}
