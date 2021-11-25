@@ -146,12 +146,10 @@ function CadastroPost() {
                <TextField value={postagem.local} onChange={(e: ChangeEvent<HTMLInputElement>) => updatedPostagem(e)} id="local" label="Local" name="local" variant="outlined" margin="normal" fullWidth />
 
                <FormControl >
-                   <InputLabel id="composition-menu" className="list">Tema </InputLabel>
+                   <InputLabel id="demo-simple-select-helper-label">Tema </InputLabel>
                    <Select
-                        
-                        className="list"
-                       labelId="composition-menu"
-                       id="composition-menu"
+                       labelId="demo-simple-select-helper-label"
+                       id="demo-simple-select-helper"
                        onChange={(e) => buscaId(`/temas/${e.target.value}`, setTema, {
                            headers: {
                                'Authorization': token
