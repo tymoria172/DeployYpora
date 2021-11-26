@@ -60,7 +60,7 @@ function Contato() {
                   Contatos:
                 </Typography>
                 <a href="https://www.linkedin.com/in/andre-ricardo21/" target="_blank">
-                  <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1637772863~hmac=b668f9ab3bdbaa6bdfc0f5e9c4259962" alt="" className="icones" />
+                  <img src="https://i.imgur.com/2f46ZLx.png" alt="" className="icones" />
                 </a>
                 <a href="https://github.com/tymoria172" target="_blank">
                   <img src="https://cdn-icons-png.flaticon.com/512/25/25657.png" alt="" className="icones" />
@@ -82,7 +82,7 @@ function Contato() {
                   Contatos:
                 </Typography>
                 <a href="https://www.linkedin.com/in/allisonalberto/" target="_blank">
-                  <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1637772863~hmac=b668f9ab3bdbaa6bdfc0f5e9c4259962" alt="" className="icones" />
+                  <img src="https://i.imgur.com/2f46ZLx.png" alt="" className="icones" />
                 </a>
                 <a href="https://github.com/AllisonAlberto" target="_blank">
                   <img src="https://cdn-icons-png.flaticon.com/512/25/25657.png" alt="" className="icones" />
@@ -104,7 +104,7 @@ function Contato() {
                   Contatos:
                 </Typography>
                 <a href="https://www.linkedin.com/in/viniciusbacelar/" target="_blank">
-                  <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1637772863~hmac=b668f9ab3bdbaa6bdfc0f5e9c4259962" alt="" className="icones" />
+                  <img src="https://i.imgur.com/2f46ZLx.png" alt="" className="icones" />
                 </a>
                 <a href="https://github.com/Viniciusovski" target="_blank">
                   <img src="https://cdn-icons-png.flaticon.com/512/25/25657.png" alt="" className="icones" />
@@ -126,7 +126,7 @@ function Contato() {
                   Contatos:
                 </Typography>
                 <a href="https://www.linkedin.com/in/eduardo-domingos-677247220/" target="_blank">
-                  <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1637772863~hmac=b668f9ab3bdbaa6bdfc0f5e9c4259962" alt="" className="icones" />
+                  <img src="https://i.imgur.com/2f46ZLx.png" alt="" className="icones" />
                 </a>
                 <a href="https://github.com/pcpdomingos" target="_blank">
                   <img src="https://cdn-icons-png.flaticon.com/512/25/25657.png" alt="" className="icones" />
